@@ -37,6 +37,7 @@ Here are some of the languages and tools I work with:
 
 ### Cloud and Deployment
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker">
 
 ## Publicly Accesible Work
 - [Pluto](https://github.com/fearandesire/Pluto-Betting-Bot): Sports Betting Application - Designed for Discord
