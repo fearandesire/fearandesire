@@ -41,4 +41,5 @@ Here are some of the languages and tools I work with:
 
 ## Publicly Accesible Work
 - [Pluto](https://github.com/fearandesire/Pluto-Betting-Bot): Sports Betting Application - Designed for Discord
+- [Sports Team Resolver](https://github.com/fearandesire/resolve-team): Fuzzy-Resolve Sports Team Names, Nicknames and Abbreviations
 - [Discord Channel Locator](https://github.com/fearandesire/discord-channel-locator): Discord Channel Locator package (Available on NPM)
