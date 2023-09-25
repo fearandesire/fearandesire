@@ -1,11 +1,5 @@
-# Hi there, I'm FENIX! 👋
-
 ## About Me
 I'm a programmer focused on backend development. I love to create.
-
-## 📫 How to Reach Me
-- Email: [fenixcoding@gmail.com](mailto:fenixcoding@gmail.com)
-- Twitter: [@FenixCoding](https://twitter.com/FenixCoding)
 
 ## Technologies and Tools
 Here are some of the languages and tools I work with:
