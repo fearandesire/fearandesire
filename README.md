@@ -34,5 +34,5 @@
 ## 🚀 My Projects
 
 - **[Pluto](https://github.com/fearandesire/Pluto-Betting-Bot):** Sports Betting Application - Discord Integration
-- **[Sports Team Resolver](https://github.com/fearandesire/resolve-team):** Fuzzy-Resolve for Sports Team Names
-- **[Discord Channel Locator](https://github.com/fearandesire/discord-channel-locator):** Find Channels Easily (Available on NPM)
+- **[Sports Team Resolver](https://github.com/fearandesire/resolve-team):** Retrieve details about sports teams
+- **[DEXTER](https://github.com/fearandesire/DEXTER):** Utility app for multiplayer [BBGM](https://play.basketball-gm.com/)
