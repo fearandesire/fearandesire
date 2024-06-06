@@ -9,4 +9,9 @@ I program almost everyday. Here's what I'm familiar with:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ---
 
+# Contact Me
+**Discord:** fenixforever
+
+**Email:** fenix@fearandesire.com
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fearandesire&show_icons=true&theme=dracula&hide_rank=true" alt="fearandesire"/>
