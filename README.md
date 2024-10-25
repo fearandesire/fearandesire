@@ -1,5 +1,4 @@
-### Hi.
-I program almost everyday. Here's what I'm familiar with:
+I program almost everyday. Here's what I'm familiar with, or actively learning:
 ## Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ## Web Dev Related
@@ -12,6 +11,6 @@ I program almost everyday. Here's what I'm familiar with:
 # Contact Me
 **Discord:** fenixforever
 
-**Email:** fenix@fearandesire.com
+**Email:** fenixcoding@gmail.com
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fearandesire&show_icons=true&theme=dracula&hide_rank=true" alt="fearandesire"/>
