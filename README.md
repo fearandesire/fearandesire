@@ -6,11 +6,6 @@
 
 &nbsp;
 
-i've been obsessed with the PC & how programs work since a pre-teen.
-
-most of what i make and work on lives at the intersection of stuff i'm passionate or care about:
-sports, software, and the endless list of ideas i'm cursed with.
-
 <!--
 if you need me, you'll find me.
 Discord: fenixforever
